@@ -10,7 +10,7 @@ My name is Fabrício Castro and I studied geophysics at University of Brasília 
 - Dart;
 - Python;
 - Matlab;
-- Figma;
+- Java;
 
 ---
   
