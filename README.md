@@ -1,4 +1,4 @@
-### Hi there 👋.
+### Hi there
 
 My name is Fabrício Castro and I studied geophysics at University of Brasília (UnB) where I graduated at the end of 2015 with a Bachelor in detect potential mineralized zones with geoelectrical techniques. I earned my Masters in Geology at Federal University of Paraná (UFPR) in early 2019.
 
@@ -9,12 +9,11 @@ My name is Fabrício Castro and I studied geophysics at University of Brasília 
   
 ### - Languages and Tools...
 
-<p align="center">
-  <a href="#">
-    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-</p>
+- Flutter;
+- Dart;
+- Python;
+- Matlab;
+- Figma;
 
 ---
   
