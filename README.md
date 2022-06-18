@@ -1,15 +1,9 @@
 ## Hi there
 🇺🇸
-<p style="padding: 10px; border: 2px solid red;">I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasília (UnB) where I graduated at the end of 2015 with a Bachelor in detect potential mineralized zones with geoelectrical techniques. I earned my Master Degree in Geology at Federal University of Paraná (UFPR) in early 2019 where I developed a Matlab suite for processing potential field data. I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in python and manage the company resources through Amazon Web Services.</p>
+I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasília (UnB) where I graduated at the end of 2015 with a Bachelor in detect potential mineralized zones with geoelectrical techniques. I earned my Master Degree in Geology at Federal University of Paraná (UFPR) in early 2019 where I developed a Matlab suite for processing potential field data. I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in python and manage the company resources through Amazon Web Services.
 
 🇧🇷
-<div style="background: ghostwhite; 
-            font-size: 20px; 
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-  Me chamo Fabrício Rodrigues Castro...
-</div>
+Me chamo Fabrício Rodrigues Castro e estudei Geofísica na Universidade de Brasília (UnB) onde me graduei no fim de 2015 com trabalho de conclusão de curso na detecção de zonas potencialmente mineralizadas por meio de técnicas geoelétricas. Consegui meu título de mestre pela Universidade Federal do Paraná (UFPR) no ínício de 2019 em Geologia onde desenvolvi uma Suite em Matlab para o processamento de dados de campos potenciais. Atualmente estou trabalhando na Monte Bravo como Engenheiro de Dados onde desenvolvo scripts em python para fazer extração de dados web (ETLs/data scraping) e administro os resursos da empresa através da AWS.
 
 <div align="center">
   <a href="https://github.com/fcastro25">
