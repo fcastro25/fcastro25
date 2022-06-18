@@ -3,9 +3,7 @@
 
 Me chamo Fabrício Rodrigues Castro...
 
-<div align="left">
-  <img align="left" alt="PT-BR" height="30" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/FLAGS/usa%20flag.png">
-</div>
+🇺🇸
 
 I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasília (UnB) where I graduated at the end of 2015 with a Bachelor in detect potential mineralized zones with geoelectrical techniques. I earned my Master Degree in Geology at Federal University of Paraná (UFPR) in early 2019 where I developed a Matlab suite for processing potential field data. I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in python and manage the company resources through Amazon Web Services.
 
