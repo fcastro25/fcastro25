@@ -35,6 +35,6 @@ I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasíl
   <a href="https://www.youtube.com/channel/UCQMEHsslFDiKlOcvr_6no1w/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:fcastrogeof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fcastro25/fcastro25/blob/output/github-contribution-grid-snake.svg)
  
 </div>
