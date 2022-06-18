@@ -31,14 +31,14 @@ I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in p
 ## My complete skill set
   
 <div style="display: block">
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block">
     <img align="center" alt="PL-Dart" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20234.png" title="Dart">
     <img align="center" alt="FLUTTER" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20235.png" title="Flutter framework">
     <img align="center" alt="ANDROID" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20241.png" title="Android development">
     <img align="center" alt="IOS" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20242.png" title="IOS development">
   </div>
   
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block">
     <img align="center" alt="PL-Python" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20236.png" title="Python">
     <img align="center" alt="PANDAS" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20245.png" title="Pandas module">
     <img align="center" alt="BOTO3" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20244.png" title="Boto3 module">
@@ -47,7 +47,7 @@ I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in p
     <img align="center" alt="TENSORFLOW" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20251.png" title="Tensorflow module">
   </div>
   
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block">
     <img align="center" alt="AWS" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20254.png" title="Amazon Web Services">
     <img align="center" alt="S3" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20263.png" title="S3">
     <img align="center" alt="Lambda" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20266.png" title="Lambda Function">
