@@ -1,7 +1,5 @@
 ## Hi there
-<div align="left">
-  <img align="left" alt="PT-BR" height="30" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/FLAGS/br%20flag.png">
-</div>
+🇧🇷
 
 Me chamo Fabrício Rodrigues Castro...
 
