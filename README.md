@@ -1,6 +1,6 @@
 ## A bit about me...
-🇺🇸
 ### Academic path
+🇺🇸
 I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasília (UnB) where I graduated and earned my Bachelor degree at the end of 2015 in detect potential mineralized zones with geoelectrical techniques. I earned my Master Degree in Geology at Federal University of Paraná (UFPR) in early 2019 where I developed a Matlab suite for processing potential field data.
 
 ### História acadêmica
