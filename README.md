@@ -30,7 +30,7 @@ I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in p
   
 ## My complete skill set
   
-<div style="display: block"><br>
+<div style="display: block">
   <div style="display: inline-block"><br>
     <img align="center" alt="PL-Dart" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20234.png" title="Dart">
     <img align="center" alt="FLUTTER" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20235.png" title="Flutter framework">
