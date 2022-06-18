@@ -12,10 +12,12 @@ I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasíl
 
   
 <div style="display: block"><br>
-  <img align="center" alt="PL-Dart" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20234.png">
-  <img align="center" alt="FLUTTER" height="40" width="40" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20235.png">
-  <img align="center" alt="ANDROID" height="40" width="40" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20241.png">
-  <img align="center" alt="IOS" height="40" width="40" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20242.png">
+  <div style="display: inline-block"><br>
+    <img align="center" alt="PL-Dart" height="70" width="70" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20234.png">
+    <img align="center" alt="FLUTTER" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20235.png">
+    <img align="center" alt="ANDROID" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20241.png">
+    <img align="center" alt="IOS" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20242.png">
+  </div>
   
   <img align="center" alt="PL-Python" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20236.png">
   <img align="center" alt="PANDAS" height="40" width="40" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20245.png">
