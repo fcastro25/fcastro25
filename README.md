@@ -3,9 +3,11 @@
 🇺🇸
 I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasília (UnB) where I graduated and earned my Bachelor degree at the end of 2015 in detect potential mineralized zones with geoelectrical techniques. I earned my Master Degree in Geology at Federal University of Paraná (UFPR) in early 2019 where I developed a Matlab suite for processing potential field data.
 
-### História acadêmica
-🇧🇷
-Me chamo Fabrício Rodrigues Castro e estudei Geofísica na Universidade de Brasília (UnB) onde me graduei no fim de 2015 com trabalho de conclusão de curso na detecção de zonas potencialmente mineralizadas por meio de técnicas geoelétricas. Consegui meu título de mestre pela Universidade Federal do Paraná (UFPR) no ínício de 2019 em Geologia onde desenvolvi uma Suite em Matlab para o processamento de dados de campos potenciais.
+<details>
+  <summary> <i>(click to expand!)</i> </summary>
+  🇧🇷
+  Me chamo Fabrício Rodrigues Castro e estudei Geofísica na Universidade de Brasília (UnB) onde me graduei no fim de 2015 com trabalho de conclusão de curso na detecção de zonas potencialmente mineralizadas por meio de técnicas geoelétricas. Consegui meu título de mestre pela Universidade Federal do Paraná (UFPR) no ínício de 2019 em Geologia onde desenvolvi uma Suite em Matlab para o processamento de dados de campos potenciais.
+  <br>
 
 ### I'm currently working with...
 🇺🇸
