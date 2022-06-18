@@ -10,8 +10,11 @@ I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in p
 <details>
   <summary> (🇧🇷) </summary>
   - História Acadêmica
+  
   Me chamo Fabrício Rodrigues Castro e estudei Geofísica na Universidade de Brasília (UnB) onde me graduei no fim de 2015 com trabalho de conclusão de curso na detecção de zonas potencialmente mineralizadas por meio de técnicas geoelétricas. Consegui meu título de mestre pela Universidade Federal do Paraná (UFPR) no ínício de 2019 em Geologia onde desenvolvi uma Suite em Matlab para o processamento de dados de campos potenciais.
+  
   - Onde estou trabalhando no momento...
+  
   Atualmente estou trabalhando na Monte Bravo como Engenheiro de Dados onde desenvolvo scripts em python para fazer extração de dados web (ETLs/data scraping) e administro os resursos da empresa através da AWS.
   <br>
 </details>
