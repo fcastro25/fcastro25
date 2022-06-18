@@ -26,9 +26,9 @@ I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in p
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcastro25&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcastro25&layout=compact&langs_count=7&theme=default"/>
 </div>
+</div>
   
 ## My complete skill set
-<div margin-top=0px padding=0px>
   
 <div style="display: block"><br>
   <div style="display: inline-block"><br>
