@@ -11,7 +11,7 @@ I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasíl
 ## My complete skill set
 <div style="display: block" margin-top=0px padding=0px><br>
   <div style="display: inline-block"><br>
-    <img align="center" alt="PL-Dart" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20234.png">
+    <img align="center" alt="PL-Dart" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20234.png" title="Dart">
     <img align="center" alt="FLUTTER" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20235.png">
     <img align="center" alt="ANDROID" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20241.png">
     <img align="center" alt="IOS" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/SKILL%20SET%20BADGES/Group%20242.png">
