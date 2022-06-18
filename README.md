@@ -28,7 +28,7 @@ I'm currently working as a Data Engeneer at Monte Bravo where I design ETLs in p
 </div>
 </div>
   
-## My complete skill set
+## My current skill set
   
 <div style="display: block">
   <div style="display: inline-block">
