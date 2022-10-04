@@ -30,8 +30,8 @@ I'm currently working as a Data Engineer at [Monte Bravo Investimentos](https://
   
 <div style="display: block">
   <div style="display: inline-block">
-    <img align="center" alt="PL-Dart" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20234.png" title="Dart">
-    <img align="center" alt="FLUTTER" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20235.png" title="Flutter framework">
+    <img align="center" alt="FLUTTER" height="80" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20235.png" title="Flutter framework">
+    <img align="center" alt="PL-Dart" height="60" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20234.png" title="Dart">
     <img align="center" alt="ANDROID" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20241.png" title="Android development">
     <img align="center" alt="IOS" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20242.png" title="IOS development">
   </div>
