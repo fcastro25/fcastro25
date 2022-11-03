@@ -42,6 +42,7 @@ I'm currently working as a Data Engineer at [Monte Bravo Investimentos](https://
     <img align="center" alt="BOTO3" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20244.png" title="Boto3 module">
     <img align="center" alt="NUMPY" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20253.png" title="Numpy module">
     <img align="center" alt="PSYCOPG2" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20250.png" title="Psycopg2 module">
+    <img align="center" alt="DASH PLOTLY" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20270.png" title="Plotly module">
     <img align="center" alt="TENSORFLOW" height="60" width="60" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20251.png" title="Tensorflow module">
   </div>
   
