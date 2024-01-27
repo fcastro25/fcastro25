@@ -15,7 +15,7 @@ I'm currently working as a Data Engineer at [Monte Bravo Investimentos](https://
   - Onde estou trabalhando no momento...
   
     Atualmente estou trabalhando na Monte Bravo como Engenheiro de Dados onde desenvolvo scripts em python para fazer extração de dados web (ETLs/data scraping) e administro os resursos da empresa através da AWS.
-
+</details>
 
 ## My current skill set
 <div style="display: block">
