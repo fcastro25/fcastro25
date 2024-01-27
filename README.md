@@ -15,9 +15,9 @@ I'm currently working as a Data Engineer at [Monte Bravo Investimentos](https://
   - Onde estou trabalhando no momento...
   
     Atualmente estou trabalhando na Monte Bravo como Engenheiro de Dados onde desenvolvo scripts em python para fazer extração de dados web (ETLs/data scraping) e administro os resursos da empresa através da AWS.
-  
+
+
 ## My current skill set
-  
 <div style="display: block">
   <div style="display: inline-block">
     <img align="center" alt="FLUTTER" height="80" width="80" src="https://github.com/fcastro25/fcastro25/blob/main/skillset_badges/Group%20235.png" title="Flutter framework">
