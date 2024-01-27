@@ -16,16 +16,6 @@ I'm currently working as a Data Engineer at [Monte Bravo Investimentos](https://
   
     Atualmente estou trabalhando na Monte Bravo como Engenheiro de Dados onde desenvolvo scripts em python para fazer extração de dados web (ETLs/data scraping) e administro os resursos da empresa através da AWS.
   
-<br>
-</details>
-
-<div align="center">
-  <a href="https://github.com/fcastro25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fcastro25&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fcastro25&layout=compact&langs_count=7&theme=default"/>
-</div>
-</div>
-  
 ## My current skill set
   
 <div style="display: block">
