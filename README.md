@@ -14,7 +14,7 @@ I'm currently acting/working as a Data Engineer where I design ETLs in python an
   
   - Onde estou trabalhando no momento...
   
-    Atualmente estou trabalhando na Monte Bravo como Engenheiro de Dados onde desenvolvo scripts em python para fazer extração de dados web (ETLs/data scraping) e administro os resursos da empresa através da AWS.
+    Atualmente trabalho como Engenheiro de Dados onde desenvolvo scripts em python para fazer extração de dados web (ETLs/data scraping) e administro os resursos da empresa através da AWS.
 </details>
 
 ## My current skill set
