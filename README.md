@@ -3,7 +3,7 @@
 I'm Fabrício Rodrigues Castro and I studied geophysics at University of Brasília (UnB) where I earned my Bachelor degree at the end of 2015 in detect potential mineralized zones with geoelectrical techniques. I earned my Masters Degree in Geology at Federal University of Paraná (UFPR) in early 2019 where I developed a [Matlab suite](https://github.com/fcastro25/GravMagSuite) for processing potential field data.
 
 ### I'm currently working with...
-I'm currently working as a Data Engineer at [Monte Bravo Investimentos](https://www.montebravo.com.br/) where I design ETLs in python and manage the company resources through Amazon Web Services.
+I'm currently acting/working as a Data Engineer where I design ETLs in python and manage the company resources through Amazon Web Services.
 
 <details>
 <summary> (🇧🇷 Um pouco sobre mim) </summary>
